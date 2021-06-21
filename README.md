@@ -13,4 +13,6 @@
 * Transfer Learning Challenges 
 * Conclusion &amp; Future Scope
 
-'https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a'
+## Visit Website for Detail Understanding about Transfer_Learning in Deep_Learning :
+
+https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
